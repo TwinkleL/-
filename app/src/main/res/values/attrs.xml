@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Mytext">
+        <attr name="mytexy" format="string"/>
+        <attr name="mytextsize" format="integer"/>
+        <attr name="mytextcolor" format="color"/>
+    </declare-styleable>
+</resources>
